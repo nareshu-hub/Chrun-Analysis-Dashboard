@@ -20,9 +20,9 @@ While this project centers on a telecom firm's customer retention challenges, it
 1. Summary Page: Comparative Customer Analysis
 The Summary Page provides a comprehensive view of customer data, split into two distinct sections for easy comparison:
 
-| - Left Side: Visuals and metrics for total customers, offering an overview of the entire customer base.
-| - Right Side: Visuals for churned customers, highlighting key differences in behavior and demographics.
-| - This layout allows users to quickly identify patterns and disparities, making it easier to understand churn dynamics and their impact.
+ - Left Side: Visuals and metrics for total customers, offering an overview of the entire customer base.
+ - Right Side: Visuals for churned customers, highlighting key differences in behavior and demographics.
+-- This layout allows users to quickly identify patterns and disparities, making it easier to understand churn dynamics and their impact.
 
 ![Summary page](https://github.com/user-attachments/assets/27277c82-8228-4fc1-8dac-7ce8ff1e9e84)
 
