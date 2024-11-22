@@ -8,21 +8,21 @@ In today's hyper-competitive business landscape, retaining customers is critical
 While this project centers on a telecom firm's customer retention challenges, its methods are highly adaptable. Industries like retail, finance, healthcare, and more can harness these techniques to improve customer loyalty. Businesses seeking to transform raw data into actionable insights for reduced churn and sustained success can benefit from this analysis.
 
 **Key Objectives:** 
-Understand Churn Drivers: Analyze customer behavior patterns to identify reasons for churn.
-Predict At-Risk Customers: Apply machine learning models to forecast potential customer departures.
-Enable Proactive Retention: Recommend actionable strategies to enhance customer satisfaction and loyalty.
+- Understand Churn Drivers: Analyze customer behavior patterns to identify reasons for churn.
+- Predict At-Risk Customers: Apply machine learning models to forecast potential customer departures.
+- Enable Proactive Retention: Recommend actionable strategies to enhance customer satisfaction and loyalty.
 
 **Tools and Technologies:**
-Data Analysis: SQL, Python (pandas,matplotlib, seaborn).
-Visualization: Power BI for creating insightful dashboards.
+- Data Analysis: SQL, Python (pandas,matplotlib, seaborn).
+- Visualization: Power BI for creating insightful dashboards.
 
 ## Dashboard Structure and Insights
 1. Summary Page: Comparative Customer Analysis
 The Summary Page provides a comprehensive view of customer data, split into two distinct sections for easy comparison:
 
-Left Side: Visuals and metrics for total customers, offering an overview of the entire customer base.
-Right Side: Visuals for churned customers, highlighting key differences in behavior and demographics.
-This layout allows users to quickly identify patterns and disparities, making it easier to understand churn dynamics and their impact.
+| - Left Side: Visuals and metrics for total customers, offering an overview of the entire customer base.
+| - Right Side: Visuals for churned customers, highlighting key differences in behavior and demographics.
+| - This layout allows users to quickly identify patterns and disparities, making it easier to understand churn dynamics and their impact.
 
 ![Summary page](https://github.com/user-attachments/assets/27277c82-8228-4fc1-8dac-7ce8ff1e9e84)
 
