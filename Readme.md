@@ -2,10 +2,10 @@
 # Customer Churn Analysis
 
 **Project Overview: Predicting and Analyzing Customer Churn:** 
-In today's hyper-competitive business landscape, retaining customers is critical for long-term growth. This project leverages advanced data analytics and machine learning techniques to address customer churn—a major challenge faced by industries worldwide. By analyzing customer data, it predicts churn probabilities and identifies the key factors driving customer attrition, enabling businesses to implement targeted retention strategies.
+- In today's hyper-competitive business landscape, retaining customers is critical for long-term growth. This project leverages advanced data analytics and machine learning techniques to address customer churn—a major challenge faced by industries worldwide. By analyzing customer data, it predicts churn probabilities and identifies the key factors driving customer attrition, enabling businesses to implement targeted retention strategies.
 
 **Target Audience and Industry Relevance:** 
-While this project centers on a telecom firm's customer retention challenges, its methods are highly adaptable. Industries like retail, finance, healthcare, and more can harness these techniques to improve customer loyalty. Businesses seeking to transform raw data into actionable insights for reduced churn and sustained success can benefit from this analysis.
+- While this project centers on a telecom firm's customer retention challenges, its methods are highly adaptable. Industries like retail, finance, healthcare, and more can harness these techniques to improve customer loyalty. Businesses seeking to transform raw data into actionable insights for reduced churn and sustained success can benefit from this analysis.
 
 **Key Objectives:** 
 - Understand Churn Drivers: Analyze customer behavior patterns to identify reasons for churn.
